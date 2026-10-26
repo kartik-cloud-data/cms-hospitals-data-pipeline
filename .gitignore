@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+metadata.json
+*.tmp
+*.download
